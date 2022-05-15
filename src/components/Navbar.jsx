@@ -1,5 +1,4 @@
 import React from "react";
-import "./navbar.css";
 import styled from "styled-components";
 import { Badge } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
